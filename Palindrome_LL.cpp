@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/palindrome-linked-list/description/
+// leetcode: 234
+
 #include <iostream>
 using namespace std;
 
@@ -106,4 +109,5 @@ int main(){
         cout << "Not Palindrome\n";
 
     return 0;
+
 }
