@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+// leetcode: 83;
+
 #include <iostream>
 using namespace std;
 
@@ -81,4 +84,5 @@ int main() {
     printList(head);
 
     return 0;
+
 }
