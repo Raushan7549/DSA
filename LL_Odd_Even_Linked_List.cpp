@@ -1,3 +1,5 @@
+// LEETCODE q_no.: 328
+// https://leetcode.com/problems/odd-even-linked-list/
 struct ListNode {
     int val;
     ListNode *next;
@@ -25,4 +27,5 @@ public:
         odd->next = evenhead;
         return oddhead;
     }
+
 };
